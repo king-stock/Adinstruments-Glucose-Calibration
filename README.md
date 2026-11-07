@@ -180,3 +180,6 @@ This repository serves as the official landing page for ADInstruments Glucose Ca
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ADInstruments Glucose Calibration today!**
+
+---
+**Last updated:** 2026-11-07 22:25:44 UTC
